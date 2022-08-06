@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm TGA</h1>
 <h3 align="center">I am Discord bot developer and Javascript coder</h3>
 
+<img src=https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/JavaScript-code.jpg?itok=1Wia7hH0>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tga098&label=Profile%20views&color=0e75b6&style=flat" alt="tga098" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tga098" alt="tga098" /></a> </p>
